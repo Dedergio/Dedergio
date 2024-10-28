@@ -5,6 +5,7 @@
   - Godot 4.3 using gdscript
   - Blender
   - Small Team Management
+  - Full-Stack Development course on mimo
 
 <!---
 - 📫 How to reach me @Dedergio on twitter
